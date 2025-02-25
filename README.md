@@ -14,4 +14,7 @@ os mais variados procedimentos para conseguir apresentar uma ótima programaçã
 e recompensador!</p>
 <br>
 <br>
+<img src="https://github.com/Sidsantos87/Location-project/blob/master/img/Captura%20de%20Tela%20(80).png?raw=true" alt="imagem-pc" width="400px">
+<br>
+
 <img src="" alt="imagem-pc" width="400px">
